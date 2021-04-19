@@ -1,13 +1,15 @@
 - <!--ENGLISH-->
-<p>ENGLISH</p>
+<h1>ENGLISH</h1>
 - 👋 Hi, I’m @rafinha-adao
 - 🌎 I’m from Brazil
 - 👀 I’m interested in everthing
 - 🌱 I’m currently learning Java
 - 🎨 Sometimes I play with HTML and CSS
-- 
+
+<br>
+
 <!-- PORTUGUÊS -->
-<p>PORTUGUÊS</p>
+<h1>PORTUGUÊS</h1>
 - 👋 Oi sou @rafinha-adao
 - 🌎 Eu sou do Brasil
 - 👀 Interessado em tudo
