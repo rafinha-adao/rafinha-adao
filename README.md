@@ -1,9 +1,11 @@
+- <!--ENGLISH-->
 - 👋 Hi, I’m @rafinha-adao
 - 🌎 I’m from Brazil
 - 👀 I’m interested in everthing
 - 🌱 I’m currently learning Java
 - 🎨 Sometimes I play with HTML and CSS
-
+- 
+<!-- PORTUGUÊS -->
 - 👋 Oi sou @rafinha-adao
 - 🌎 Eu sou do Brasil
 - 👀 Interessado em tudo
