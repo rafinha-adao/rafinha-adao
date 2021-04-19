@@ -1,27 +1,27 @@
 <!-- ENGLISH -->
-<h3>English</h3>
-👋<h4> Hi, I’m @rafinha-adao</h4>
+<h4>English</h4>
+👋 Hi, I’m @rafinha-adao
 <br>
-🌎<h4> I’m from Brazil</h4>
+🌎 I’m from Brazil
 <br>
-👀<h4> I’m interested in everthing</h4>
+👀 I’m interested in everthing
 <br>
-🌱<h4> I’m currently learning Java</h4>
+🌱 I’m currently learning Java
 <br>
-🎨<h4> Sometimes I play with HTML and CSS</h4>
+🎨 Sometimes I play with HTML and CSS
 <br>
 
 <!-- PORTUGUÊS -->
-<h3>Português</h3>
-👋<h4> Oi sou @rafinha-adao</h4>
+<h4>Português</h4>
+👋 Oi sou @rafinha-adao
 <br>
-🌎<h4> Eu sou do Brasil</h4>
+🌎 Eu sou do Brasil
 <br>
-👀<h4> Interessado em tudo</h4>
+👀 Interessado em tudo
 <br>
-🌱<h4> Atualmente estou aprendendo Java</h4>
+🌱 Atualmente estou aprendendo Java
 <br>
-🎨<h4> Às vezes eu brinco com HTML e CSS</h4>
+🎨 Às vezes eu brinco com HTML e CSS
 
 <!---
 rafinha-adao/rafinha-adao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
