@@ -1,5 +1,5 @@
-<!--ENGLISH-->
-<h4>ENGLISH</h4>
+<!-- ENGLISH -->
+<h4>English</h4>
 👋 Hi, I’m @rafinha-adao
 <br>
 🌎 I’m from Brazil
@@ -12,7 +12,7 @@
 <br>
 
 <!-- PORTUGUÊS -->
-<h4>PORTUGUÊS</h4>
+<h4>Português</h4>
 👋 Oi sou @rafinha-adao
 <br>
 🌎 Eu sou do Brasil
