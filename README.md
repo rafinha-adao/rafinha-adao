@@ -13,7 +13,7 @@
 
 <!-- PORTUGUÊS -->
 <h4>Português</h4>
-👋 Oi sou @rafinha-adao
+👋 Oi, sou @rafinha-adao
 <br>
 🌎 Eu sou do Brasil
 <br>
