@@ -8,7 +8,7 @@
 <br>
 🌱 I’m currently learning Java
 <br>
-🎨 Sometimes I play with HTML and CSS
+🎨 Sometimes I play with HTML, JS and CSS
 <br>
 
 <!-- PORTUGUÊS -->
@@ -21,7 +21,7 @@
 <br>
 🌱 Atualmente estou aprendendo Java
 <br>
-🎨 Às vezes eu brinco com HTML e CSS
+🎨 Às vezes eu brinco com HTML, JS e CSS
 
 <!---
 rafinha-adao/rafinha-adao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
