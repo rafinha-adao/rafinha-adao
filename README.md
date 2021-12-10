@@ -12,6 +12,7 @@
   <img align="center" alt="NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ##
