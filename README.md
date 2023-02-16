@@ -1,6 +1,6 @@
 <div style="display:grid;">
 	<div>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-adao&layout=compact&langs_count=8&theme=dark"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-adao&layout=compact&langs_count=8&theme=dark&hide=scss"/>
 	</div>
 	<div>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinha-adao&layout=compact&theme=dark&count_private=true&hide=issues,contribs&show_icons=true"/>
