@@ -1,4 +1,4 @@
-<div>
+<div style="display:grid;justify-content:stretch">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-adao&layout=compact&langs_count=8&theme=dark&hide=scss"/>
 <img src="https://github-readme-stats.vercel.app/api?username=rafinha-adao&layout=compact&theme=dark&count_private=true&hide=issues,contribs&show_icons=true"/>
 </div>
